@@ -1,0 +1,22 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewisbensted/blackjack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewisbensted/blackjack/issues"
+  },
+  "homepage": "https://github.com/lewisbensted/blackjack#readme",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
